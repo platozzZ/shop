@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "选择商品列表",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

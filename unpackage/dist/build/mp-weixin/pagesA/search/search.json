@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索商品",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

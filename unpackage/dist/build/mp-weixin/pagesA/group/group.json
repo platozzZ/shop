@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "拼团",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "uni-load-more": "/components/uni-load-more",
+    "toload": "/components/toload"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "一起参团",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse"
+  }
+}

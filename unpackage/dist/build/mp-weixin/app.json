@@ -1,0 +1,202 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/share",
+    "pages/tabBar/home",
+    "pages/tabBar/allGoods",
+    "pages/tabBar/livePlayer",
+    "pages/tabBar/shoppingCart",
+    "pages/tabBar/my",
+    "pages/login/agreement",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/login/retrievepassword",
+    "pages/collection/collection",
+    "pages/collection/discover",
+    "pages/my/aboutMe",
+    "pages/my/myInfo",
+    "pages/my/mycoupon",
+    "pages/my/myScore",
+    "pages/my/gradeUse",
+    "pages/address/receivingAddress",
+    "pages/address/addAddress",
+    "pages/message/message",
+    "pages/message/systemMesage",
+    "pages/message/service",
+    "pages/message/detailedMesage",
+    "pages/order/myOrder",
+    "pages/order/order",
+    "pages/order/order_payment",
+    "pages/order/orderSearch",
+    "pages/order/batchOrder",
+    "pages/goods/goodsDetailed",
+    "pages/goods/goods",
+    "pages/pay/orderDetailsr",
+    "pages/pay/payResult",
+    "pages/expressage/expressage",
+    "pages/evaluate/evaluate",
+    "pages/evaluate/evaluating",
+    "pages/evaluate/evaluatEnd",
+    "pages/liveReplay/liveReplay"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesB",
+      "pages": [
+        "expressage/expressage",
+        "coupon/mycoupon",
+        "coupon/coupon_detail",
+        "myWallet/myWallet",
+        "myWallet/recharge",
+        "myWallet/putForward",
+        "myWallet/rechargeSuccess",
+        "integral/integral",
+        "integral/integral_detail",
+        "integral/integral_order",
+        "setUp/setUp",
+        "setUp/loginPassword",
+        "setUp/payment",
+        "setUp/changePhone",
+        "setUp/paymentPassword",
+        "seckill/seckill",
+        "seckill/seckill_detail",
+        "seckill/seckill_my",
+        "seckill/seckillDetailsr",
+        "seckill/payResult",
+        "vip/vip_share"
+      ]
+    },
+    {
+      "root": "pagesA",
+      "pages": [
+        "group/group",
+        "group/groupDetailed",
+        "group/group_end",
+        "group/payfor",
+        "group/groupOrder",
+        "store/store",
+        "myStore/activities_pro",
+        "myStore/activities_set",
+        "myStore/activities_add",
+        "myStore/activities_details",
+        "myStore/platform_activities",
+        "myStore/shipments",
+        "myStore/applyStore",
+        "myStore/myStore",
+        "myStore/applySuc",
+        "myStore/myOrder",
+        "myStore/myPro",
+        "myStore/uploadPro",
+        "myStore/myCha",
+        "myStore/myCli",
+        "myStore/storeSetup",
+        "myStore/storeRefund",
+        "myStore/order",
+        "myStore/setAttr",
+        "myStore/myFinance",
+        "myStore/goodsDetail",
+        "myStore/addStock",
+        "myStore/applyAgreement",
+        "myStore/storeList",
+        "myStore/addStore",
+        "bidding/bidding",
+        "bidding/bidding_detailed",
+        "bidding/bidding_record",
+        "bidding/bidding_my",
+        "bidding/bidding_order",
+        "bargain/bargain",
+        "bargain/bargainIng",
+        "bargain/rules",
+        "vip/vip",
+        "vipClub/vipClub",
+        "bidding/bidding_rule",
+        "bidding/bidding_detailed_Two",
+        "distribution/distribution_list",
+        "distribution/distribution_share",
+        "distribution/distribution_result",
+        "distribution/distribution_form",
+        "distribution/distribution_flow",
+        "distribution/distribution_center",
+        "distribution/distribution_team",
+        "distribution/distribution_tocashFlow",
+        "distribution/distribution_rule",
+        "search/search",
+        "search/searchResult",
+        "shop/coupon",
+        "shop/sign",
+        "shop/invite",
+        "returnGoods/refund",
+        "returnGoods/returnGoods",
+        "afterSale/afterSale",
+        "afterSale/afterDetail",
+        "myStore/QRcode",
+        "myStore/QRdraw",
+        "myStore/QRsuccess",
+        "myStore/MsIndex",
+        "myStore/orderdetails",
+        "myStore/editorder",
+        "myStore/fight_manage"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "雪地电商",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#9D9D9D",
+    "selectedColor": "#020202",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/home",
+        "iconPath": "static/img/homeWx.png",
+        "selectedIconPath": "static/img/homeWxh.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabBar/allGoods",
+        "iconPath": "static/img/goShoppingWx.png",
+        "selectedIconPath": "static/img/goShoppingWxh.png",
+        "text": "全部分类"
+      },
+      {
+        "pagePath": "pages/tabBar/livePlayer",
+        "iconPath": "static/img/live.png",
+        "selectedIconPath": "static/img/livechecked.png",
+        "text": "雪地直播"
+      },
+      {
+        "pagePath": "pages/tabBar/shoppingCart",
+        "iconPath": "static/img/shoppingWx.png",
+        "selectedIconPath": "static/img/shoppingWxh.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabBar/my",
+        "iconPath": "static/img/myWx.png",
+        "selectedIconPath": "static/img/myWxh.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/tabBar/home": {
+      "network": "all",
+      "packages": [
+        "pagesA",
+        "pagesB"
+      ]
+    }
+  },
+  "networkTimeout": {
+    "request": 60000
+  },
+  "permission": {},
+  "usingComponents": {
+    "lktauthorize": "/components/lktauthorize"
+  }
+}

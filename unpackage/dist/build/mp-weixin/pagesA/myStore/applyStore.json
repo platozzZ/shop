@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "申请开店",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

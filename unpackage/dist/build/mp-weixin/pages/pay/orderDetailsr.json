@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "确认订单信息",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "maskm": "/components/maskM",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse",
+    "paymodel": "/components/paymodel"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "修改手机号码",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "toload": "/components/toload"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "砍价规则",
+  "usingComponents": {
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse"
+  }
+}

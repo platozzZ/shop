@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "拼团详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse",
+    "lktauthorize": "/components/lktauthorize"
+  }
+}

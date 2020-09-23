@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "代理规则",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

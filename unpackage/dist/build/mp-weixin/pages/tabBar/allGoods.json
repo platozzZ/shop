@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "全部分类",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "bottom": "/components/bottom",
+    "heads": "/components/header",
+    "toload": "/components/toload"
+  }
+}

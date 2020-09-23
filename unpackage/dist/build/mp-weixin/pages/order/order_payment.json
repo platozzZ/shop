@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "请选择支付方式",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header-h5",
+    "headapp": "/components/header",
+    "paymodel": "/components/paymodel"
+  }
+}

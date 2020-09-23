@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "门店信息设置",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker",
+    "time-picker": "/components/time-picker"
+  }
+}

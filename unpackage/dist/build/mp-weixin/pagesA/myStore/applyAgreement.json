@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "入驻协议",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

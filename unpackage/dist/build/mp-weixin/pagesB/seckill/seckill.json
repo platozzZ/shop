@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "rule-modal": "/components/ruleModal"
+  }
+}

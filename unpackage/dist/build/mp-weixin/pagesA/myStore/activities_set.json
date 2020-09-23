@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动设置",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动商品",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "toload": "/components/toload"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "lktauthorize": "/components/lktauthorize",
+    "mask-m": "/components/maskM"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "收货地址",
+  "usingComponents": {
+    "heads": "/components/header",
+    "lkdel-model": "/components/delModel"
+  }
+}

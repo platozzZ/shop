@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "拼团管理",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "mpvue-picker": "/components/mpvuePicker",
+    "uni-load-more": "/components/uni-load-more"
+  }
+}

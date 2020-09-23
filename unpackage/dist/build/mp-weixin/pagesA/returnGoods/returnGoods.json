@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "请选择售后类型",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

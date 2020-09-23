@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header-h5",
+    "mpvue-picker": "/components/mpvuePicker",
+    "headapp": "/components/header"
+  }
+}

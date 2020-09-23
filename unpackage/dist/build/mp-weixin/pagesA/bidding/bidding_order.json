@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "竞拍订单确认页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "maskm": "/components/maskM",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "我的秒杀",
+  "usingComponents": {
+    "heads": "/components/header",
+    "uni-load-more": "/components/uni-load-more"
+  }
+}

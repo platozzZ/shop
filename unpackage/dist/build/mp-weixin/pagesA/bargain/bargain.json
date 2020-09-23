@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more",
+    "heads": "/components/header",
+    "toload": "/components/toload"
+  }
+}

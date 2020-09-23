@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more",
+    "heads": "/components/header-h5",
+    "headapp": "/components/header",
+    "del-model": "/components/delModel"
+  }
+}

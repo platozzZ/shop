@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "mpvue-picker": "/components/mpvuePicker",
+    "uni-load-more": "/components/uni-load-more"
+  }
+}

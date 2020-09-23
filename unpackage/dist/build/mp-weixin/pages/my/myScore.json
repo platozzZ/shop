@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的积分",
+  "usingComponents": {
+    "heads": "/components/header",
+    "uni-load-more": "/components/uni-load-more",
+    "rule-modal": "/components/ruleModal"
+  }
+}

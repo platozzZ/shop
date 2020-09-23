@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "雪地电商",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse",
+    "lktauthorize": "/components/lktauthorize"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse",
+    "uni-richtext": "/components/qiyue-richtext/uni-richtext"
+  }
+}

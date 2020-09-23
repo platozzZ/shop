@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "活动管理",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "toload": "/components/toload",
+    "loadmore": "/components/uni-load-more"
+  }
+}

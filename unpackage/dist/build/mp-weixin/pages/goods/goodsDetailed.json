@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "heads": "/components/header",
+    "weixin-parse": "/components/mpvue-wxparse/src/wxParse",
+    "toload": "/components/toload"
+  }
+}

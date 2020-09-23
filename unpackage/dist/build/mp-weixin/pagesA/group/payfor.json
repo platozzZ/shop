@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "订单确认",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header-h5",
+    "maskm": "/components/maskM",
+    "headapp": "/components/header",
+    "paymodel": "/components/paymodel"
+  }
+}

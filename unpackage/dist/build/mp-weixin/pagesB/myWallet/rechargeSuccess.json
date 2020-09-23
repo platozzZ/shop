@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "充值成功",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header"
+  }
+}

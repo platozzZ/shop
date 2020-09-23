@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "雪地直播",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "heads": "/components/header",
+    "live-item": "/components/liveItem"
+  }
+}
